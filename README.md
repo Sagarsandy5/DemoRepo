@@ -1,2 +1,3 @@
 # DemoRepo
-This is My Git first Repository
+This is My Git first Repository.
+Author -Sagar Barmapla
